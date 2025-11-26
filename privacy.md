@@ -150,7 +150,5 @@ This privacy policy complies with:
 - General Data Protection Regulation (GDPR) principles
 - California Consumer Privacy Act (CCPA) principles
 
----
 
-**Summary:** Your data stays on your device. We don't store it on our servers. We only share food images with OpenAI for identification, and nutrition data with Apple Health if you enable it. You control everything.
 
