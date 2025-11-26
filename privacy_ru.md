@@ -1,156 +1,151 @@
-# Privacy Policy for Lina AI
+# Политика конфиденциальности Lina AI
 
-**Last Updated:** December 2024
+**Последнее обновление:** Декабрь 2024
 
-## Introduction
+## Введение
 
-Lina AI ("we", "our", or "the app") is committed to protecting your privacy. This privacy policy explains how we collect, use, store, and protect your data when you use our mobile application.
+Lina AI ("мы", "наш" или "приложение") обязуется защищать вашу конфиденциальность. Эта политика конфиденциальности объясняет, как мы собираем, используем, храним и защищаем ваши данные при использовании нашего мобильного приложения.
 
-## Data Collection
+## Сбор данных
 
-Lina AI collects the following types of data:
+Lina AI собирает следующие типы данных:
 
-### 1. Food Logging Data
-- Food items you log through the app
-- Nutritional information (calories, protein, carbs, fats)
-- Timestamps of when you log food
-- Portion sizes and serving information
+### 1. Данные о еде
+- Продукты, которые вы записываете через приложение
+- Информация о питании (калории, белки, углеводы, жиры)
+- Временные метки, когда вы записываете еду
+- Размеры порций и информация о порциях
 
-### 2. User Profile Data
-- Name (optional)
-- Age/Birthday
-- Gender
-- Height
-- Weight
-- Health and fitness goals
+### 2. Данные профиля пользователя
+- Имя (необязательно)
+- Возраст/День рождения
+- Пол
+- Рост
+- Вес
+- Цели здоровья и фитнеса
 
-### 3. Health Data (Optional)
-- If you enable HealthKit integration:
-  - Steps data from Apple Health
-  - Calories burned from Apple Health
-  - Nutrition data synced to Apple Health
+### 3. Данные о здоровье (необязательно)
+- Если вы включите интеграцию с HealthKit:
+  - Данные о шагах из Apple Health
+  - Сожженные калории из Apple Health
+  - Данные о питании, синхронизированные с Apple Health
 
-### 4. Chat Data
-- Messages you send to the AI dietolog
-- AI responses and recommendations
-- Conversation history
+### 4. Данные чата
+- Сообщения, которые вы отправляете AI-диетологу
+- Ответы и рекомендации AI
+- История разговоров
 
-### 5. Images (Temporary)
-- Food photos you take with the camera for identification
-- These images are processed and then deleted from our systems
+### 5. Изображения (временные)
+- Фотографии еды, которые вы делаете камерой для идентификации
+- Эти изображения обрабатываются, а затем удаляются из наших систем
 
-## How We Use Your Data
+## Как мы используем ваши данные
 
-Your data is used to:
+Ваши данные используются для:
 
-1. **Provide Personalized Recommendations**
-   - Calculate your daily calorie and macro goals
-   - Generate personalized meal recommendations
-   - Provide AI-powered dietary advice
+1. **Предоставления персонализированных рекомендаций**
+   - Расчет ваших ежедневных целей по калориям и макроэлементам
+   - Генерация персонализированных рекомендаций по еде
+   - Предоставление рекомендаций по питанию на основе AI
 
-2. **Track Your Progress**
-   - Monitor your daily nutrition intake
-   - Track your progress toward goals
-   - Calculate streaks and achievements
+2. **Отслеживания вашего прогресса**
+   - Мониторинг вашего ежедневного потребления питательных веществ
+   - Отслеживание прогресса в достижении целей
+   - Расчет серий и достижений
 
-3. **Improve AI Advice**
-   - Analyze your eating patterns
-   - Provide time-based advice (e.g., "Stop overeating at night")
-   - Give personalized nutrition guidance
+3. **Улучшения советов AI**
+   - Анализ ваших пищевых привычек
+   - Предоставление советов на основе времени (например, "Прекратите переедать ночью")
+   - Персонализированные рекомендации по питанию
 
-4. **Food Identification**
-   - Process food images to identify items
-   - Estimate nutritional information
+4. **Идентификации еды**
+   - Обработка изображений еды для идентификации продуктов
+   - Оценка информации о питании
 
-## Data Sharing
+## Обмен данными
 
-### OpenAI API
-- **What we share:** Food images and nutrition data
-- **Why:** To identify foods and provide nutritional information
-- **How:** Images are sent to OpenAI's API, processed, and then deleted
-- **OpenAI's Privacy Policy:** [https://openai.com/policies/privacy-policy](https://openai.com/policies/privacy-policy)
+### API OpenAI
+- **Что мы передаем:** Изображения еды и данные о питании
+- **Зачем:** Для идентификации продуктов и предоставления информации о питании
+- **Как:** Изображения отправляются в API OpenAI, обрабатываются, а затем удаляются
+- **Политика конфиденциальности OpenAI:** [https://openai.com/policies/privacy-policy](https://openai.com/policies/privacy-policy)
 
-### Apple HealthKit (Optional)
-- **What we share:** Nutrition data (calories, macros)
-- **Why:** To sync with your Apple Health data
-- **How:** Data is synced to Apple Health if you enable this feature
-- **Apple's Privacy Policy:** [https://www.apple.com/privacy/](https://www.apple.com/privacy/)
+### Apple HealthKit (необязательно)
+- **Что мы передаем:** Данные о питании (калории, макроэлементы)
+- **Зачем:** Для синхронизации с вашими данными Apple Health
+- **Как:** Данные синхронизируются с Apple Health, если вы включите эту функцию
+- **Политика конфиденциальности Apple:** [https://www.apple.com/privacy/](https://www.apple.com/privacy/)
 
-### Third Parties
-- **We do NOT sell your data** to any third parties
-- **We do NOT share your personal information** with advertisers
-- **We do NOT use your data** for marketing purposes
+### Третьи стороны
+- **Мы НЕ продаем ваши данные** третьим лицам
+- **Мы НЕ передаем вашу личную информацию** рекламодателям
+- **Мы НЕ используем ваши данные** в маркетинговых целях
 
-## Data Storage
+## Хранение данных
 
-### Local Storage
-- **All your data is stored locally** on your device
-- **We do NOT store your data** on our servers
-- **We do NOT have access** to your data
-- Data is stored in your device's local file system
+### Локальное хранилище
+- **Все ваши данные хранятся локально** на вашем устройстве
+- **Мы НЕ храним ваши данные** на наших серверах
+- **Мы НЕ имеем доступа** к вашим данным
+- Данные хранятся в локальной файловой системе вашего устройства
 
-### Data Export
-- You can export all your data at any time from the app's Settings
-- Exported data is in JSON format
-- You can import this data back into the app
+### Экспорт данных
+- Вы можете экспортировать все свои данные в любое время из настроек приложения
+- Экспортированные данные в формате JSON
+- Вы можете импортировать эти данные обратно в приложение
 
-### Data Deletion
-- If you delete the app, all data is permanently deleted
-- There is no cloud backup or recovery
-- You can manually delete data from Settings
+### Удаление данных
+- Если вы удалите приложение, все данные будут безвозвратно удалены
+- Нет облачного резервного копирования или восстановления
+- Вы можете вручную удалить данные из настроек
 
-## Your Rights
+## Ваши права
 
-You have the right to:
+Вы имеете право:
 
-1. **Access Your Data**
-   - View all data collected by the app
-   - Export your data at any time
+1. **Получать доступ к своим данным**
+   - Просматривать все данные, собранные приложением
+   - Экспортировать свои данные в любое время
 
-2. **Delete Your Data**
-   - Delete individual food entries
-   - Reset all app data
-   - Delete the app to remove all data
+2. **Удалять свои данные**
+   - Удалять отдельные записи о еде
+   - Сбрасывать все данные приложения
+   - Удалить приложение для удаления всех данных
 
-3. **Control Data Sharing**
-   - Opt out of HealthKit integration
-   - Control what data is synced to Apple Health
+3. **Контролировать обмен данными**
+   - Отказаться от интеграции с HealthKit
+   - Контролировать, какие данные синхронизируются с Apple Health
 
-4. **Privacy Settings**
-   - Manage all privacy settings in the app's Settings section
+4. **Настройки конфиденциальности**
+   - Управлять всеми настройками конфиденциальности в разделе настроек приложения
 
-## Security
+## Безопасность
 
-- All data is stored locally on your device
-- API communications use HTTPS encryption
-- No data is transmitted to our servers
-- Your data remains on your device at all times
+- Все данные хранятся локально на вашем устройстве
+- API-коммуникации используют HTTPS-шифрование
+- Данные не передаются на наши серверы
+- Ваши данные остаются на вашем устройстве в любое время
 
-## Children's Privacy
+## Конфиденциальность детей
 
-Lina AI is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
+Lina AI не предназначена для детей младше 13 лет. Мы не собираем намеренно личную информацию от детей младше 13 лет.
 
-## Changes to This Policy
+## Изменения в этой политике
 
-We may update this privacy policy from time to time. We will notify you of any changes by:
-- Updating the "Last Updated" date
-- Posting the new policy in the app
-- Providing notice in the app if changes are significant
+Мы можем время от времени обновлять эту политику конфиденциальности. Мы уведомим вас о любых изменениях:
+- Обновляя дату "Последнее обновление"
+- Публикуя новую политику в приложении
+- Предоставляя уведомление в приложении, если изменения значительны
 
-## Contact
+## Контакты
 
-If you have questions about this privacy policy or how we handle your data, please contact us through:
-- The app's support channels
-- GitHub Issues (if this is an open-source project)
+Если у вас есть вопросы об этой политике конфиденциальности или о том, как мы обрабатываем ваши данные, пожалуйста, свяжитесь с нами через:
+- Каналы поддержки приложения
+- GitHub Issues (если это проект с открытым исходным кодом)
 
-## Compliance
+## Соответствие
 
-This privacy policy complies with:
-- Apple's App Store Review Guidelines
-- General Data Protection Regulation (GDPR) principles
-- California Consumer Privacy Act (CCPA) principles
-
----
-
-**Summary:** Your data stays on your device. We don't store it on our servers. You control everything.
-
+Эта политика конфиденциальности соответствует:
+- Руководящим принципам проверки App Store Apple
+- Принципам Общего регламента по защите данных (GDPR)
+- Принципам Закона о защите конфиденциальности потребителей Калифорнии (CCPA)
