@@ -1,14 +1,14 @@
-# Privacy Policy for Lina AI
+# Privacy Policy for Lusie AI
 
 **Last Updated:** December 2024
 
 ## Introduction
 
-Lina AI ("we", "our", or "the app") is committed to protecting your privacy. This privacy policy explains how we collect, use, store, and protect your data when you use our mobile application.
+Lusie AI ("we", "our", or "the app") is committed to protecting your privacy. This privacy policy explains how we collect, use, store, and protect your data when you use our mobile application.
 
 ## Data Collection
 
-Lina AI collects the following types of data:
+Lusie AI collects the following types of data:
 
 ### 1. Food Logging Data
 - Food items you log through the app
@@ -64,11 +64,21 @@ Your data is used to:
 
 ## Data Sharing
 
-### OpenAI API
-- **What we share:** Food images and nutrition data
-- **Why:** To identify foods and provide nutritional information
-- **How:** Images are sent to OpenAI's API, processed, and then deleted
-- **OpenAI's Privacy Policy:** [https://openai.com/policies/privacy-policy](https://openai.com/policies/privacy-policy)
+### Third-Party AI Service
+- **What we share:** 
+  - Food images (for food identification)
+  - Text messages and conversation history (for AI dietolog chat and voice call features)
+  - User nutrition data (calories, macros, goals) - only when you use the AI dietolog feature
+- **Data Types:** Images (JPEG/PNG), text messages, nutrition data (numbers only, no personal identifiers)
+- **Why:** To identify foods, provide nutritional information, and offer personalized AI-powered dietary advice
+- **AI Service:** We use a third-party AI service provider for chat responses and voice synthesis
+- **How:** Data is sent to the AI service provider's servers via encrypted HTTPS connections, processed, and responses are returned. The AI service provider does not use your data to train their models.
+- **Storage/Retention:** 
+  - The AI service provider retains API data for up to 30 days for abuse monitoring, then permanently deletes it
+  - We do not store your images or conversations on our servers
+  - All data remains on your device except during API transmission
+- **User Consent:** You will be prompted to consent to data sharing with the AI service provider when you first use the AI dietolog feature. You can disable AI features at any time in Settings.
+- **AI Service Provider's Privacy Policy:** [https://openai.com/policies/privacy-policy](https://openai.com/policies/privacy-policy)
 
 ### Apple HealthKit (Optional)
 - **What we share:** Nutrition data (calories, macros)
@@ -128,7 +138,7 @@ You have the right to:
 
 ## Children's Privacy
 
-Lina AI is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
+Lusie AI is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.
 
 ## Changes to This Policy
 
@@ -150,5 +160,6 @@ This privacy policy complies with:
 - General Data Protection Regulation (GDPR) principles
 - California Consumer Privacy Act (CCPA) principles
 
+---
 
-
+**Summary:** Your data stays on your device. We don't store it on our servers. You control everything.
